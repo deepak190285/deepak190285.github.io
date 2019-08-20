@@ -54,12 +54,12 @@ Lightweight change approval will reduce the time to get the change to production
 
 In short, when all the four capabilities above work in tandem, the improvement in the output is evident.
 
-Measures here are:
-a. Number of process improvements implemented.
-b. Improvement in throughput.
-c. Number of changes delivered after peer/team reviews.
-d. Number of issues/bugs for new features delivered.
-e. Time to address the bug, in production.
+Measures here are:  
+a. Number of process improvements implemented.  
+b. Improvement in throughput.  
+c. Number of changes delivered after peer/team reviews.  
+d. Number of issues/bugs for new features delivered.  
+e. Time to address the bug, in production.  
 
 
 #### Continuous Delivery:
@@ -122,11 +122,12 @@ Survey to Measure Transformational Leadership:
 
 Westrum Organizational Culture Models:
 
-<img src="/Books/pictures/westrumorganizationalculture.jpg" width="500">
+![WOC](pictures/westrumorganizationalculture.jpg){: style="width: 500px" }
+
 
 Survey to measure the Culture:
 
-<img src="/Books/pictures/surveyforculture.jpg" width="500">
+![Survey 2](pictures/surveyforculture.jpg){: style="width: 500px" } 
 
 Strongly Agree :: Generative Organizational Culture  
 Strongly Disagree:: Pathological Organizational Culture.
