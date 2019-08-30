@@ -1,0 +1,33 @@
+# Project information
+site_name: 'Learnings'
+site_description: 'Consolidating learnings'
+site_author: 'Deepak.K.N'
+site_url: 'https://deepak190285.github.io'
+edit_uri: ''
+
+# Repository
+repo_name: 'deepak190285/deepak190285.github.io'
+repo_url: 'https://github.com/deepak190285/deepak190285.github.io'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'grey'
+    accent: 'blue'
+
+# this is needed for !!! stuff to work
+markdown_extensions:
+  - admonition
+  - codehilite:
+      linenums: true
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - pymdownx.extra
+
+# Navigation
+# nav:
+#     - Getting Started: index.md

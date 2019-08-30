@@ -1,2 +1,2 @@
-# know-how
-A Consolidation of Learnings
+# Know-How
+A repository to consolidate the learnings
