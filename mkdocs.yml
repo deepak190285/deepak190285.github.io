@@ -2,12 +2,12 @@
 site_name: 'Learnings'
 site_description: 'Consolidating learnings'
 site_author: 'Deepak.K.N'
-site_url: 'https://github.wdf.sap.corp/pages/i056812/Know-How/Books/'
+site_url: 'https://deepak190285.github.io'
 edit_uri: ''
 
 # Repository
-repo_name: 'i056812/Know-How'
-repo_url: 'https://github.wdf.sap.corp/i056812/Know-How'
+repo_name: 'deepak190285/deepak190285.github.io'
+repo_url: 'https://github.com/deepak190285/deepak190285.github.io'
 
 # Configuration
 theme:
